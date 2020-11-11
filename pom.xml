@@ -11,6 +11,8 @@
     <modules>
         <module>dubbodemo_provider</module>
         <module>dubbodemo_consumer</module>
+        <module>dubbodemo_interface</module>
+        <module>mybatis_generate</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

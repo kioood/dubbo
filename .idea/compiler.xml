@@ -6,7 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="dubbodemo_interface" />
         <module name="dubbodemo_consumer" />
+        <module name="mybatis_generate" />
         <module name="dubbodemo_provider" />
       </profile>
     </annotationProcessing>
